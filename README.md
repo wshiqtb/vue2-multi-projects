@@ -1,6 +1,6 @@
 # app-v4
 
-> h5项目新版结构，@author 407733614@qq.com
+> h5项目新版结构
 > 所有的h5项目以目录的形式存放在src/projects下，一个目录代表一个子项目
 
 ## Build Setup
